@@ -27,7 +27,7 @@ additional methods for binary search trees.
   _________________________________
   
   
-● Project Background
+● Project Background:
 
   Essentially, a medical triage is a system in which patients come and go and its behavior is similar to a
   processor executing tasks following a priority schedule. Patients will arrive one at a time with
@@ -64,7 +64,8 @@ additional methods for binary search trees.
   _________________________________
   
   
-  ● Code Structure.
+  ● Code Structure:
+  
   This project contains the following important folders:
   -> src: This is the source folder which consists of all the important files and code related to this project.
   -> src/test: This is the package folder containing all of the public unit tests.
@@ -74,7 +75,7 @@ additional methods for binary search trees.
    _________________________________
   
   
-● Contributing
+● Contributing:
 
   If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. 
   If you find any issue just put it in the repository issue section, thank you.
