@@ -67,8 +67,11 @@ additional methods for binary search trees.
   ● Code Structure:
   
   This project contains the following important folders:
+  
   -> src: This is the source folder which consists of all the important files and code related to this project.
+  
   -> src/test: This is the package folder containing all of the public unit tests.
+  
   -> lib: This is where you can find libraries that are included with the project. At the very
           least you will find two jar files that are used to run the JUnit test framework.
           
